@@ -57,8 +57,6 @@ En caso de querer contribuir con el proyecto, por favor, contactarme al siguient
 
 ¡Gracias!
 
-</br>
-
 <h1 align="center"></h1>
 
 ### Importante
