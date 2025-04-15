@@ -1,5 +1,14 @@
 ![HTTPTester](https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d)
 
+<p align="center">
+    <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3-green.svg">
+  </a>
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
+  </a>
+    <img src="https://img.shields.io/badge/Public-%F0%9F%94%92-red.svg">
+  </a>
+</p>
 
 <h1 align="center"></h1>
 
