@@ -49,6 +49,13 @@ Para utilizar la interfaz gráfica deben descargar el ejecutable que se encuentr
 
 ![5](https://github.com/user-attachments/assets/f77c981b-91ae-429f-bbf7-b732baee9093)
 
+<h1 align="center"></h1>
+
+En caso de querer contribuir con el proyecto, por favor, contactarme al siguiente correo. Se darán créditos por ello.
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+¡Gracias!
 
 </br>
 
