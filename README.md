@@ -3,6 +3,19 @@
 
 <h1 align="center"></h1>
 
+HTTP Tester es un programa escrito en Python para realizar pruebas de Denegación de Servicio (DoS) contra servicios web. Utilizá varios modos de ataque:
+
+- **HTTP Flood:** Envía solicitudes masivas para saturar el servidor.
+- **Slowloris intensivo:** Mantiene conexiones HTTP abiertas para agotar recursos.
+- **POST Attack:** Envía datos aleatorios para consumir ancho de banda y CPU.
+
+Otras características que implementa:
+
+- Soporte para proxies y SOCKS5: Permite distribuir el tráfico a través de proxies para evitar bloqueos.
+- User-Agents aleatorios: Evita la detección basada en patrones de tráfico.
+- SSL/TLS: Soporta conexiones HTTPS para pruebas en servidores seguros.
+- Estadísticas en tiempo real: Muestra solicitudes por segundo, ancho de banda consumido y errores.
+
 #### ~GUI
 
 ![1](https://github.com/user-attachments/assets/2ccd2a58-397b-43e8-904a-0d203398608c)
