@@ -27,6 +27,8 @@ Otras características que implementa:
 - SSL/TLS: Soporta conexiones HTTPS para pruebas en servidores seguros.
 - Estadísticas en tiempo real: Muestra solicitudes por segundo, ancho de banda consumido y errores.
 
+<h1 align="center"></h1>
+
 ##### Instalación para CMD
 ```
 • git clone https://github.com/R3LI4NT/http-tester
@@ -35,6 +37,8 @@ Otras características que implementa:
 ```
 
 Para utilizar la interfaz gráfica deben descargar el ejecutable que se encuentra en la carpeta `exe`.
+
+<h1 align="center"></h1>
 
 #### ~GUI
 
