@@ -37,7 +37,7 @@ Para utilizar la interfaz gráfica deben descargar el ejecutable que se encuentr
 
 #### ~CMD 
 
-![4](https://github.com/user-attachments/assets/72f91e47-4568-448b-a5d7-5a3191d55bdf)
+![4](https://github.com/user-attachments/assets/b0cb0b5f-1e8d-4e2f-968e-1108fe6e5032)
 
 ![5](https://github.com/user-attachments/assets/f77c981b-91ae-429f-bbf7-b732baee9093)
 
