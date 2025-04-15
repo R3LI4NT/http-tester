@@ -19,7 +19,7 @@ HTTP Tester es un programa escrito en Python para realizar pruebas de Denegació
 
 Otras características que implementa:
 
-- Soporte para proxies y SOCKS5: Permite distribuir el tráfico a través de proxies para evitar bloqueos.
+- Soporte para proxys y SOCKS5: Permite distribuir el tráfico a través de proxies para evitar bloqueos.
 - User-Agents aleatorios: Evita la detección basada en patrones de tráfico.
 - SSL/TLS: Soporta conexiones HTTPS para pruebas en servidores seguros.
 - Estadísticas en tiempo real: Muestra solicitudes por segundo, ancho de banda consumido y errores.
