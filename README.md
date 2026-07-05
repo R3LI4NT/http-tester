@@ -28,7 +28,7 @@
 
 ## Descripción
 
-**HTTP-TESTER** es una herramienta avanzada de pruebas de estrés para servidores web, diseñada para evaluar la resiliencia y capacidad de respuesta de infraestructuras web ante diferentes tipos de ataques y sobrecargas. Cuenta con múltiples vectores de ataque, gestión inteligente de recursos, soporte para proxies y estadísticas en tiempo real.
+**HTTP-TESTER** es una herramienta avanzada de pruebas de DoS para servidores web, diseñada para evaluar la resiliencia y capacidad de respuesta de infraestructuras web ante diferentes tipos de ataques y sobrecargas. Cuenta con múltiples vectores de ataque, gestión inteligente de recursos, soporte para proxies y estadísticas en tiempo real.
 
 ### Propósito
 
