@@ -5,18 +5,22 @@
 <h1 align="center">Herramienta de Pruebas de DoS</h1>
 
 <p align="center">
-    <a href="https://python.org">
-        <img src="https://img.shields.io/badge/Python-3.7+-green.svg">
-    </a>
-    <a href="https://github.com/yourusername/HTTP-TESTER/releases">
-        <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
-    </a>
-    <a href="https://github.com/yourusername/HTTP-TESTER/issues">
-        <img src="https://img.shields.io/badge/Issues-Welcome-orange.svg">
-    </a>
-    <a href="https://github.com/yourusername/HTTP-TESTER">
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg">
-    </a>
+  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VERSION-4.0-8A5CFF?style=for-the-badge&logoColor=white" alt="Version" /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></a>
+  <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="License" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge" alt="Portable" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTTP%2F2-Supported-1F8B4C?style=for-the-badge" alt="HTTP/2" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SSL%2FTLS-Supported-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SSL/TLS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Proxy-SOCKS5%20%2F%20HTTP-FF6B00?style=for-the-badge&logo=torproject&logoColor=white" alt="Proxy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Multi--Threaded-Yes-22C55E?style=for-the-badge&logo=thread&logoColor=white" alt="Multi-Threaded" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WAF%20Evasion-Yes-DA3633?style=for-the-badge&logo=cloudflare&logoColor=white" alt="WAF Evasion" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/12%20Attack%20Vectors-8A5CFF?style=for-the-badge" alt="Attack Vectors" /></a>
+  <a href="#"><img src="https://img.shields.io/github/downloads/yourusername/HTTP-TESTER/total?style=for-the-badge&color=8A5CFF&label=Downloads&logo=github&logoColor=white" alt="Downloads" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/HTTP-TESTER?style=for-the-badge&color=FFD700&label=Stars&logo=github&logoColor=white" alt="Stars" /></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/yourusername/HTTP-TESTER?style=for-the-badge&color=22C55E&label=Forks&logo=github&logoColor=white" alt="Forks" /></a>
 </p>
 
 ---
