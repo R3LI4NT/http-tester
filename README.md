@@ -214,7 +214,7 @@ Correo de contacto:
 <h1 align="center"></h1>
 
 > [!CAUTION]
-> Cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de C# como lenguaje para el desarrollo de malware en entornos controlados. 
+> Cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto debe usarse únicamente en entornos autorizados. 
 
 <h1 align="center"></h1>
 
