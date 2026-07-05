@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d" alt="HTTPTester" width="200"/>
+  <img src="https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d" alt="HTTPTester" width="400"/>
 </p>
 
 <h1 align="center">Herramienta de Pruebas de DoS</h1>
