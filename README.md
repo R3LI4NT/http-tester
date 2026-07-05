@@ -1,75 +1,79 @@
-![HTTPTester](https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d)
+# 🔥 HTTP-TESTER
 
-<h1 align="center"></h1>
 <p align="center">
-    <a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-3-green.svg">
-  </a>
-    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
-  </a>
-    <img src="https://img.shields.io/badge/Public-%F0%9F%94%91-red.svg">
-  </a>
+  <img src="https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d" alt="HTTPTester" width="200"/>
 </p>
 
-HTTP Tester es un programa escrito en Python para realizar pruebas de Denegación de Servicio (DoS) contra servidores web. 
+<h1 align="center">HTTP-TESTER - Herramienta de Pruebas de Estrés HTTP</h1>
 
-### Características de HTTP-Tester `1.0`.
+<p align="center">
+    <a href="https://python.org">
+        <img src="https://img.shields.io/badge/Python-3.7+-green.svg">
+    </a>
+    <a href="https://github.com/yourusername/HTTP-TESTER/releases">
+        <img src="https://img.shields.io/badge/Release-4.0-blue.svg">
+    </a>
+    <a href="https://github.com/yourusername/HTTP-TESTER/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-red.svg">
+    </a>
+    <a href="https://github.com/yourusername/HTTP-TESTER/issues">
+        <img src="https://img.shields.io/badge/Issues-Welcome-orange.svg">
+    </a>
+    <a href="https://github.com/yourusername/HTTP-TESTER">
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg">
+    </a>
+</p>
 
-Utiliza varios modos de ataque:
-- **HTTP Flood**: Envía solicitudes masivas para saturar el servidor.
-- **Slowloris** intensivo: Mantiene conexiones HTTP abiertas para agotar recursos.
-- **POST Attack**: Envía datos aleatorios para consumir ancho de banda y CPU.
+---
 
-Otras características que implementa:
+## Descripción
 
-- Soporte para proxys y SOCKS5: Permite distribuir el tráfico a través de proxies para evitar bloqueos.
-- User-Agents aleatorios: Evita la detección basada en patrones de tráfico.
-- SSL/TLS: Soporta conexiones HTTPS para pruebas en servidores seguros.
-- Estadísticas en tiempo real: Muestra solicitudes por segundo, ancho de banda consumido y errores.
+**HTTP-TESTER** es una herramienta avanzada de pruebas de estrés para servidores web, diseñada para evaluar la resiliencia y capacidad de respuesta de infraestructuras web ante diferentes tipos de ataques y sobrecargas. Cuenta con múltiples vectores de ataque, gestión inteligente de recursos, soporte para proxies y estadísticas en tiempo real.
 
-<h1 align="center"></h1>
+### Propósito
 
-##### Instalación para CMD
-```
-• git clone https://github.com/R3LI4NT/http-tester
-• cd http-tester
-• python3 DoS.py -h
-```
+- **Pruebas de Rendimiento**: Evaluar la capacidad de un servidor bajo alta carga
+- **Seguridad**: Identificar vulnerabilidades y puntos débiles
+- **Educación**: Aprender sobre ataques DoS/DDoS y sus mecanismos
+- **Optimización**: Mejorar la configuración de servidores
 
-Para utilizar la interfaz gráfica deben descargar el ejecutable que se encuentra en la carpeta `exe`.
+---
 
-<h1 align="center"></h1>
+## Características
 
-#### ~GUI
+### Principales
 
-![1](https://github.com/user-attachments/assets/2ccd2a58-397b-43e8-904a-0d203398608c)
+- **Múltiples Modos de Ataque**: 12 vectores de ataque diferentes
+- **Alta Concurrencia**: Soporte para miles de hilos simultáneos
+- **Auto-Ajuste**: Regulación inteligente de recursos
+- **Estadísticas en Tiempo Real**: Monitoreo continuo del rendimiento
+- **Soporte para Proxies**: Uso de proxies SOCKS5 para distribución
+- **Rotación de IP**: Generación automática de IPs falsas
+- **Evasión de WAF**: Técnicas para evitar detección
+- **SSL/TLS**: Soporte completo para conexiones seguras
+- **HTTP/2**: Ataques sobre el protocolo HTTP/2
 
-![2](https://github.com/user-attachments/assets/fdcb84d8-3014-447a-b31b-204fb9daf684)
+### Modos de Ataque
 
-![3](https://github.com/user-attachments/assets/06de35d9-8650-490d-9f62-2887e2d22b34)
+| Modo | Descripción | Uso |
+|------|-------------|-----|
+| **Inundación HTTP** | Ataque masivo con solicitudes GET | `--http` |
+| **HTTP/2** | Explotación de vulnerabilidades HTTP/2 | `--http2` |
+| **Slowloris** | Agotamiento de conexiones con apertura lenta | `--slowloris` |
+| **Inundación POST** | Ataque con solicitudes POST masivas | `--post` |
+| **R-U-Dead-Yet? (RUDY)** | Envío lento de datos POST | `--rudy` |
+| **Ataque Rango** | Solicitudes con cabeceras Range maliciosas | `--rango` |
+| **Cabeceras Múltiples** | Inyección de cientos de cabeceras | `--cabeceras-multiples` |
+| **Renegociación SSL** | Ataque de renegociación SSL/TLS | `--ssl-reneg` |
+| **WebSocket** | Ataque sobre conexiones WebSocket | `--websocket` |
+| **Amplificación DNS** | Uso de servidores DNS públicos | `--amplificacion-dns` |
+| **Slow Read** | Lectura extremadamente lenta | `--slow-read` |
+| **Request Smuggling** | Contrabando de solicitudes HTTP | `--smuggling` |
+| **Todos** | Activa todos los modos simultáneamente | `--todos` |
 
-<h1 align="center"></h1>
+---
 
-#### ~CMD 
 
-![4](https://github.com/user-attachments/assets/b0cb0b5f-1e8d-4e2f-968e-1108fe6e5032)
-
-![5](https://github.com/user-attachments/assets/f77c981b-91ae-429f-bbf7-b732baee9093)
-
-<h1 align="center"></h1>
-
-En caso de querer contribuir con el proyecto, por favor, contactarme al siguiente correo. Se darán créditos por ello.
-
-<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-¡Gracias!
-
-<h1 align="center"></h1>
-
-### Importante
-
-**`ES:`** No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
-
-**`EN:`**  I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
-
-#R3LI4NT
+<p align="center">
+    <b>⚠️ ADVERTENCIA: Esta herramienta es para fines educativos y de pruebas autorizadas únicamente.</b>
+</p>
