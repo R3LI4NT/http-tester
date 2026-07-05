@@ -10,8 +10,6 @@
   <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></a>
-  <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="License" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge" alt="Portable" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HTTP%2F2-Supported-1F8B4C?style=for-the-badge" alt="HTTP/2" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SSL%2FTLS-Supported-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SSL/TLS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Proxy-SOCKS5%20%2F%20HTTP-FF6B00?style=for-the-badge&logo=torproject&logoColor=white" alt="Proxy" /></a>
