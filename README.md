@@ -205,7 +205,17 @@ python dos.py ejemplo.com -p 443 -t 3000 -d 300 --http --websocket --cabeceras-m
 python dos.py ejemplo.com -p 443 -t 2500 -d 300 --http --rango --slow-read --auto-ajuste --randomizar --evadir-waf
 ```
 
+<h1 align="center"></h1>
 
-<p align="center">
-    <b>⚠️ ADVERTENCIA: Esta herramienta es para fines educativos y de pruebas autorizadas únicamente.</b>
-</p>
+Correo de contacto:
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<h1 align="center"></h1>
+
+> [!CAUTION]
+> Cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de C# como lenguaje para el desarrollo de malware en entornos controlados. 
+
+<h1 align="center"></h1>
+
+#### Developer: ~R3LI4NT~
