@@ -67,6 +67,8 @@
 | **Request Smuggling** | Contrabando de solicitudes HTTP | `--smuggling` |
 | **Todos** | Activa todos los modos simultáneamente | `--todos` |
 
+<img width="1121" height="466" alt="DoS" src="https://github.com/user-attachments/assets/1c14ecf5-ec18-4d5f-b82f-e11a4dc89e82" />
+
 ---
 
 ## 🎯 Ataques Básicos
