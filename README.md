@@ -18,9 +18,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Multi--Threaded-Yes-22C55E?style=for-the-badge&logo=thread&logoColor=white" alt="Multi-Threaded" /></a>
   <a href="#"><img src="https://img.shields.io/badge/WAF%20Evasion-Yes-DA3633?style=for-the-badge&logo=cloudflare&logoColor=white" alt="WAF Evasion" /></a>
   <a href="#"><img src="https://img.shields.io/badge/12%20Attack%20Vectors-8A5CFF?style=for-the-badge" alt="Attack Vectors" /></a>
-  <a href="#"><img src="https://img.shields.io/github/downloads/yourusername/HTTP-TESTER/total?style=for-the-badge&color=8A5CFF&label=Downloads&logo=github&logoColor=white" alt="Downloads" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/HTTP-TESTER?style=for-the-badge&color=FFD700&label=Stars&logo=github&logoColor=white" alt="Stars" /></a>
-  <a href="#"><img src="https://img.shields.io/github/forks/yourusername/HTTP-TESTER?style=for-the-badge&color=22C55E&label=Forks&logo=github&logoColor=white" alt="Forks" /></a>
 </p>
 
 ---
