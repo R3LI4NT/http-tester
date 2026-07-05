@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VERSION-4.0-8A5CFF?style=for-the-badge&logoColor=white" alt="Version" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VERSION-1.0-8A5CFF?style=for-the-badge&logoColor=yellow" alt="Version" /></a>
   <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" /></a>
