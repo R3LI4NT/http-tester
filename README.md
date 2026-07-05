@@ -2,17 +2,14 @@
   <img src="https://github.com/user-attachments/assets/12181966-eb42-44d0-ba2b-c95cbd4d7f7d" alt="HTTPTester" width="200"/>
 </p>
 
-<h1 align="center">HTTP-TESTER - Herramienta de Pruebas de DoS</h1>
+<h1 align="center">Herramienta de Pruebas de DoS</h1>
 
 <p align="center">
     <a href="https://python.org">
         <img src="https://img.shields.io/badge/Python-3.7+-green.svg">
     </a>
     <a href="https://github.com/yourusername/HTTP-TESTER/releases">
-        <img src="https://img.shields.io/badge/Release-4.0-blue.svg">
-    </a>
-    <a href="https://github.com/yourusername/HTTP-TESTER/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-red.svg">
+        <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
     </a>
     <a href="https://github.com/yourusername/HTTP-TESTER/issues">
         <img src="https://img.shields.io/badge/Issues-Welcome-orange.svg">
